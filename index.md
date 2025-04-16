@@ -10,3 +10,7 @@ Este README serve para testar meus conhecimentos sobre markdown e github.
   // Exemplo de código JavaScript para criar uma lista de frutas
   const fruits = ["banana", "maçã", "abacaxi", "melancia"];
 ```
+
+- [X] Terminei os desafios teóricos/práticos da CWI Crescer;
+- [X] Fiz a apresentação do projeto da 1UP da faculdade;
+- [ ] Fiz a prova de IHC
